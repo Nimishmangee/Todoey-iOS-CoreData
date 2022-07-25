@@ -15,6 +15,9 @@
 8. Implementing UISearchBar from Querying with CoreData
 9. Creating Relationship Graphs in core data
 
+<img width="403" alt="Screenshot 2022-07-25 at 8 49 29 AM" src="https://user-images.githubusercontent.com/82581324/180692980-50daa485-290a-4678-854c-21c51068d8c3.png">
+
+
 ## What it will create 
 
 A todolist app to keep track of all your tasks and storing them in suitable categories
